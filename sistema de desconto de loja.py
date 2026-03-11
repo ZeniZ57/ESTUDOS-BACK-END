@@ -1,3 +1,4 @@
+#sistema de desconto de uma loja
 categorias = {"Bronze":0.05, "Prata":0.10, "Ouro":0.20}
 #aqui sao as categorias 
 
@@ -18,6 +19,7 @@ else:
     #se nao for nenhuma das tres categorias, vai ser invalido
 
    
+
 
 
 
