@@ -34,7 +34,10 @@ resultado = aliens.get(nome)
 
 if resultado:
     print(f"a habilidade do alien {nome} é: {resultado}")
+    #NESSA PARTE, VAI MOSTRAR O NOME DO ALIEN E A HABILIDADE
 
 else:
     print("alien nao encontrado!")
+    #SE O USUARIO ESCOLHER UM ALIEN QUE NAO ESTEJA NO DICIONARIO, RESULTARÁ COMO ALIEN NAO ENCONTRADO
+
 
