@@ -1,3 +1,4 @@
+#verificador de acesso por turnos
 turnos = {"manha", "tarde", "noite"}
 #aqui sao os turnos 
 
@@ -21,3 +22,4 @@ else:
 
 
     
+
